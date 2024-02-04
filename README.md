@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nawdhaa
+- 👋 Hi, I’m Nawdhaa
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning data analysis 
 - 💞️ I’m looking to collaborate on my bootcamp
